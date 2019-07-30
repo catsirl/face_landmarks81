@@ -12,5 +12,5 @@ Generating a image with 81 identified face landmarks from a input image, and sav
 2.Select a image<br>
 3.Save image with 81 points and 81 points.<br>
 ## Example
-<p align="center"><img src="example/input_1.jpg.png" alt="input" width="400"></p>
-<p align="center"><img src="example/input_1_81_landmarks.png.jpg.png" alt="input" width="400"></p>
+<p align="center"><img src="example/input_1.jpg" alt="input" width="400"></p>
+<p align="center"><img src="example/input_1_81_landmarks.png" alt="output" width="400"></p>
